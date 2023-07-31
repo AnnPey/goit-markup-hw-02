@@ -71,7 +71,9 @@
 
 address {}
 
-.contacts {}
+.contacts {
+    color:  #434455;
+}
 
 .list {
     color: var(--navyblue, #2E2F42);
