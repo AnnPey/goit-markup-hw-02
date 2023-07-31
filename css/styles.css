@@ -146,7 +146,7 @@ cursor: pointer
 .li-one {
 }
 
-.h3 {
+.h-three {
     color: var(--navyblue, #2E2F42);
     font-family: 'Roboto';
     font-size: 20px;
@@ -168,7 +168,7 @@ cursor: pointer
 
 .section3{}
 
-.h2 {
+.h-two {
     color: var(--navyblue, #2E2F42);
     text-align: center;
     font-family: 'Roboto';
@@ -191,7 +191,7 @@ cursor: pointer
     background: var(--white, #FFF);
     }
 
-.p2 {
+.p-two {
     color: var(--cloud, #F4F4FD);
     font-family: Roboto;
     font-size: 16px;
