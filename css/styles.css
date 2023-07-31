@@ -53,6 +53,10 @@
     color: var(--cloud, #F4F4FD);
 }
 
+.list {
+    list-style: none
+}
+
 .header-nav {}
 
 .ul1 {
