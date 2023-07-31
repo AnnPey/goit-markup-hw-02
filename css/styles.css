@@ -24,6 +24,10 @@
 
 .nav {
     font-family: "Raleway", sans-serif;
+    display: inline-flex;
+    height: 24px;
+    align-items: center;
+    flex-shrink: 0;
 }
 
 .ul {
@@ -214,12 +218,7 @@ color: var(--white, #FFF);
    
 }
 
-.ul2 {
-    display: inline-flex;
-    height: 24px;
-    align-items: center;
-    flex-shrink: 0;
-}
+
 
 /*portfolio*/
 
