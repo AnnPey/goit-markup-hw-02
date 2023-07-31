@@ -57,8 +57,16 @@
     list-style: none
 }
 
-.ull{
+.ull {
     color: #2e2f42;
+}
+
+.ull:hover {
+    color: #404bbf
+}
+
+.ull:focus {
+    color: #404bbf;
 }
 
 .list {
