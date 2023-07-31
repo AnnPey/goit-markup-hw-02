@@ -75,6 +75,14 @@ address {}
     color:  #434455;
 }
 
+.contacts:hover {
+    color: #404bbf;
+}
+
+.contacts:focus {
+    color: #404bbf;
+}
+
 .list {
     color: var(--navyblue, #2E2F42);
     font-family: 'Roboto';
