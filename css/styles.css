@@ -185,7 +185,7 @@ cursor: pointer
     background: var(--cloud, #F4F4FD);
 }
 
-.li1 {
+.li-two {
     padding-bottom: 0px;
     justify-content: center;
     background: var(--white, #FFF);
