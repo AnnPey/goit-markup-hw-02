@@ -115,7 +115,7 @@ address {}
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px; /* 107.143% */
+    line-height: 1.07;
     letter-spacing: 1.12px;
     text-align: center;
 }
@@ -123,13 +123,22 @@ address {}
 .button {
 background: var(--iris, #4D5AE5);
 /* Button text*/
-font-family: 'Roboto';
+font-family: "Roboto", sans-serif ;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.64px;
 color: var(--white, #FFF);
+cursor: pointer 
+}
+
+.button:hover {
+    background-color: #404BBF;
+}
+
+.button:focus {
+    background-color: #404BBF;
 }
 
 .section2{}
