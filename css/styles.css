@@ -103,13 +103,13 @@ address {}
     letter-spacing: 0.32px;
 }
 
-.section1 {
+.sec {
     background: var(--navyblue, #2E2F42);
     flex-shrink: 0;
     text-align: center;
 }
 
-.h1 {
+.h-one {
     color: var(--white, #FFF);
     font-family: 'Roboto';
     font-size: 56px;
