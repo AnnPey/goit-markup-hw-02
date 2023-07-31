@@ -22,6 +22,10 @@
     flex-shrink: 0;
 }
 
+.nav {
+    font-family: "Raleway", sans-serif;
+}
+
 .ul {
     display: inline-flex;
     height: 24px;
