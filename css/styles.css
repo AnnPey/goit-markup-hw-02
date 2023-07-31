@@ -57,7 +57,9 @@
     list-style: none
 }
 
-.header-nav {}
+.ull{
+    color: #2e2f42;
+}
 
 .list {
     color: var(--navyblue, #2E2F42);
