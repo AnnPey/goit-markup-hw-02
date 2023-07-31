@@ -156,7 +156,7 @@ cursor: pointer
     letter-spacing: 0.4px;
 }
 
-.p1 {
+.p-one {
     color: var(--slate, #434455);
     font-family: 'Roboto';
     font-size: 16px;
