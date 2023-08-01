@@ -261,3 +261,24 @@ cursor: pointer
     border: 1px solid var(--cornflower, #E7E9FC);
     background: var(--cloud, #F4F4FD);
 }
+
+.all {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:  #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.all:hover {
+    color: #FFFFFF;
+    background-color: #404BBF ;
+}
+
+.all:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
