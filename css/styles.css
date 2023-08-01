@@ -141,7 +141,7 @@ cursor: pointer
     background-color: #404BBF;
 }
 
-.section2{}
+.sec-two{}
 
 .li-one {
 }
@@ -166,7 +166,7 @@ cursor: pointer
     letter-spacing: 0.32px;
 }
 
-.section3{}
+.sec-three{}
 
 .h-two {
     color: var(--navyblue, #2E2F42);
@@ -181,7 +181,7 @@ cursor: pointer
     line-height: 1.11;
 }
 
-.section4 {
+.sec-four {
     flex-shrink: 0;
     background: var(--cloud, #F4F4FD);
 }
@@ -193,7 +193,7 @@ cursor: pointer
     }
 
 .p-two {
-    color: var(--cloud, #F4F4FD);
+    color: #434455;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
