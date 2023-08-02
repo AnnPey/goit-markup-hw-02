@@ -28,7 +28,7 @@
 .link {
     text-decoration: none;
     color: currentColor;
-}
+    }
 
 .logo {
     color: var(--iris, #4D5AE5);
@@ -55,6 +55,7 @@
 
 .ull {
     color: #2e2f42;
+    font-weight: 500;
 }
 
 .ull:hover {
