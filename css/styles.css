@@ -88,7 +88,6 @@ address {}
     font-family: 'Roboto';
     font-size: 16px;
     font-style: normal;
-    font-weight: 500;
     line-height: 24px; 
     letter-spacing: 0.32px;
     list-style: none
@@ -232,35 +231,16 @@ cursor: pointer
     letter-spacing: 0.64px;
 }
 
-.iris1 {
-    background: var(--ocean, #404BBF);
-    color: var(--white, #FFF);
-    text-align: center;
-}
+.iris1 {}
 
-.iris2 {
-    justify-content: center;
-    border: 1px solid var(--cornflower, #E7E9FC);
-    background: var(--cloud, #F4F4FD);
-}
 
-.iris3 {
-    justify-content: center;
-    border: 1px solid var(--cornflower, #E7E9FC);
-    background: var(--cloud, #F4F4FD);
-}
+.iris2 {}
 
-.iris4 {
-   justify-content: center;
-   border: 1px solid var(--cornflower, #E7E9FC);
-   background: var(--cloud, #F4F4FD);
-}
+.iris3 {}
 
-.iris5 {
-    justify-content: center;
-    border: 1px solid var(--cornflower, #E7E9FC);
-    background: var(--cloud, #F4F4FD);
-}
+.iris4 {}
+
+.iris5 {}
 
 .all {
     font-family: "Roboto", sans-serif;
