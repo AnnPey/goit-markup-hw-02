@@ -1,6 +1,17 @@
 :root {
-    --main-color: #FFF;
+    --main-color:#FFFFFF ;
     --pane-padding: 5px 42px;
+    --iris: #4D5AE5;
+    --ocean: #404BBF;
+    --navyblue: #2E2F42;
+    --green: #31D0AA;
+    --slate: #434455;
+    --lightslate: #8E8F99;
+    --cornflower: #E7E9FC;
+    --cloud: #F4F4FD;
+    --navybluemodal: #2E2F42;
+    --grey: #2E2F42;
+    --dairy: #FCFCFC;
   }
 
 .body {
